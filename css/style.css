@@ -1,0 +1,20 @@
+*{
+
+}
+.Titulo{
+    color: rgba(9, 135, 207, 0.877);
+    margin-left: 15px;
+
+}
+.alunos{
+    font-size: 35px;
+    margin-left: 15px;
+}
+.Titulo2{
+    color: rgba(9,135,207,0.877);
+
+}
+.disciplinas{
+    font-size: 23px;
+    margin-left: 33px;
+}
